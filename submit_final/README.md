@@ -1,9 +1,9 @@
-## Laboratorio de Implementación I | Workflow final
+# Laboratorio de Implementación I | Workflow final
 
 Estimados,
 En esta carpeta encontrarán el notebook con el que pueden correr y simular nuestro submit final en Kaggle.
 
-# Características
+## Características
 
 • Semilla primigenia: 600167
 • N° Experimento: 9101
@@ -19,7 +19,7 @@ Para modificar el código nos basamos en los resultados de algunos experimentos 
 - Ponderar los años.
 - Variables de feature engineering creadas por nosotros en el Experimento #03.
 
-# Autores
+## Autores
 
 Baltazar Villanueva
 Fernando Paganini
