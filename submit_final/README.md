@@ -5,11 +5,11 @@ En esta carpeta encontrarán el notebook con el que pueden correr y simular nues
 
 ## Características
 
-• Semilla primigenia: 600167 \n
-• N° Experimento: 9101 \n
-• Optimización Bayesiana con 100 iteraciones guardadas en el repositorio. \n
-• Ensemble de K = 25 semillas a partir de la semilla primigenia. \n
-• Cantidad de envíos: 2000 \n
+- Semilla primigenia: 600167
+- N° Experimento: 9101
+- Optimización Bayesiana con 100 iteraciones guardadas en el repositorio.
+- Ensemble de K = 25 semillas a partir de la semilla primigenia.
+- Cantidad de envíos: 2000
 
 Se seleccionó la semilla que presentaba el menor desvío estándar entre las ganancias de las distintas cantidades de envíos (S = 88) y la cantidad de envíos que presentaba el menor desvío estándar entre las semillas utilizadas (S = 23).
 Para modificar el código nos basamos en los resultados de algunos experimentos colaborativos, en particular:
